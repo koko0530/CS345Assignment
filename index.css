@@ -1,0 +1,300 @@
+.navigation_bar{
+    padding: 16px !important;
+    background-color: white;
+    border:none;
+    opacity: 75%;
+}
+
+.nav-items{
+    color: #025669 !important;
+    padding-right: 30px !important; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.companyName{
+    font-weight: bold;
+    font-size: 25px !important;
+}
+
+.dropdown-items{
+    background-color: white !important;
+}
+
+.w3-dropdown-hover:first-child{
+    background-color: white !important;
+}
+
+.main-img-regButton{
+    background-color: white !important;
+    padding: 15px 45px; 
+    font-size: 17px;
+    color: #025669 !important;
+    text-decoration-line: none;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.main-img-signButton{
+    background-color: white !important;
+    padding: 15px 45px; 
+    font-size: 17px;
+    color: #025669 !important;
+    text-decoration-line: none;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.main-img-p{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.main-img-content{
+    margin-left: 5%;
+}
+
+
+#carbonCalculator a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    font-size: large;
+    background-color: #025669;
+
+}
+
+#carbonCalculator h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#025669;
+
+}
+
+#carbonCalculator p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+    color:#4c6369;
+}
+#carbonCalculator{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+#us h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #025669;
+
+}
+
+#us h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#025669;
+}
+
+#us p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    color: #4c6369;
+}
+
+.exp-row1{
+    padding-bottom: 100px;
+    padding-top: 70px;
+}
+
+.exp-row2{
+    padding-bottom: 100px;
+}
+
+.exp-row1{
+    padding-bottom: 100px;
+    padding-top: 70px;
+}
+
+#explore h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #025669;
+
+}
+
+#explore h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#025669;
+    padding-top: 50px;
+}
+
+#explore p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    color: #4c6369;
+}
+
+.tipsButton{
+    background-color: #025669 !important;
+    padding: 15px 45px; 
+    font-size: 17px;
+    color: white !important;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.climateChangeButton{
+    background-color: #025669 !important;
+    padding: 15px 45px; 
+    font-size: 17px;
+    color: white !important;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.qnaButton{
+    background-color: #025669 !important;
+    padding: 15px 45px; 
+    font-size: 17px;
+    color: white !important;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.p1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#4c8757;
+    position:absolute;
+    top:43%;
+    left:65%;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration-line:underline;
+    
+
+}
+.p2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#4c8757;
+    position:absolute;
+    top:83%;
+    left:65%;
+    font-weight: bold;
+    font-size: 40px;
+    border-color: white;
+    text-decoration-line:underline;
+
+
+}
+
+#involve h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #025669;
+    padding-bottom: 20px;
+}
+#involve{
+    position:relative;
+}
+#involve img{
+    padding-bottom: 50px;
+    padding-top:10px;
+}
+
+.w3-image:hover{
+    transform: scale(1.2);
+    transition: all ease-in-out 500ms;
+}
+
+.fa-leaf{
+    color: #025669;
+}
+
+#footer i{
+    font-size: 40px;
+    color: white;
+    padding: 10px;
+}
+
+#footer h3{
+    padding-top: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+}
+
+#footer{
+    background-color: #025669 !important;
+}
+
+#footer p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#trigger-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height:92%;
+    line-height: normal;
+    background-color: white;
+    padding: 20px;
+    z-index: 100;
+    display: none;
+
+}
+
+#submit{
+    margin: 10px;
+    margin-top: 15px;
+    background-color: #025669 !important;
+    color: white !important;
+    border: none !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.signup-img{
+    margin-top: 75px;
+    
+}
+
+#ct-form h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#025669;
+}
+
+
+
+#ct-form label{
+    font-family:'Times New Roman', Times, serif;
+    color:#4c6369;
+}
+
+.custom-color{
+    color: #025669;
+}
+
+#trigger-modal h3{
+    padding-left: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#025669;
+    font-weight: bold;
+}
